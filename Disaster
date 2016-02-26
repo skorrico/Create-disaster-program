@@ -1,3 +1,4 @@
+//calls on classes to create a fire or water disaster in a certain area
 public class Disaster {
 
     public static void main(String[] args) {
